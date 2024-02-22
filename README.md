@@ -1,3 +1,3 @@
 # my-first-repo
 DataViz
-[zuyd.nl](zuyd.nl)
+[zuyd.nl](https://www.zuyd.nl/)
