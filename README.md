@@ -1,4 +1,3 @@
 # my-first-repo
 DataViz
-zuyd.nl
-[ReadMe](readme.com)
+[zuyd.nl](zuyd.nl)
